@@ -2,6 +2,6 @@
 
 int main()
 {
-  print("test a file");
+  printf("test a file");
   return 0;
 }
